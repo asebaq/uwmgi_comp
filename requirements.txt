@@ -1,0 +1,16 @@
+segmentation_models_pytorch
+wandb
+scikit-learn==1.0
+numpy
+pandas
+matplotlib
+albumentations
+opencv-python
+jupyter
+# pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+# dash
+# jupyter-dash
+plotly
+colorama
+wheel
+cupy
