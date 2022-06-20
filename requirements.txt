@@ -12,5 +12,5 @@ jupyter
 # jupyter-dash
 plotly
 colorama
-wheel
+# wheel
 cupy
