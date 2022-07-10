@@ -13,4 +13,8 @@ jupyter
 plotly
 colorama
 # wheel
-cupy
+# cupy
+seaborn
+torchinfo
+tensorflow
+keras-unet-collection
